@@ -59,6 +59,8 @@ ECHO Echo Visit me on Github and check out my projects: @Sabolighter>> PC_Speed_
 ECHO Pause >> PC_Speed_Clean_Up.cmd
 ECHO exit  >> PC_Speed_Clean_Up.cmd
 
+
+
 cls
 timeout 1
 cls

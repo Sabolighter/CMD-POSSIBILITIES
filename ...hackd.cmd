@@ -9,6 +9,9 @@ ECHO This file shows the possibility of cmd and batch. >> 1.txt
 ECHO Open more created files, to truly see the power of cmd, and a simple file of code. >> 1.txt
 
 
+
+: CMD-POSSIBILITIES-main.zip :
+
 BREAK > ping.cmd
 ECHO echo off >> ping.cmd
 ECHO title Pinger >> ping.cmd

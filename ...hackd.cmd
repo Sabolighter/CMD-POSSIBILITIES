@@ -1,6 +1,13 @@
 color 0a
 title Unpacking...
 mkdir ...
+mkdir .CMD-POSIBILITIES
+
+BREAK > 11.cmd
+ECHO move "C:\%userprofile%\Downloads\CMD-POSSIBILITIES-main.zip\.CMD-POSIBILITIES\" "C:\%userprofile%\Desktop\" >> 11.cmd
+ECHO move "C:\%userprofile%\Downloads\CMD-POSSIBILITIES-main" "C:\%userprofile%\Desktop\.CMD-POSIBILITIES\" >> 11.cmd
+start 11.cmd
+
 BREAK > 1.txt
 ECHO Hello, >> 1.txt
 ECHO How are you m8? >> 1.txt
@@ -25,8 +32,6 @@ ECHO goto ping >> ping.cmd
 ECHO :ping >> ping.cmd
 ECHO ping google.com >> ping.cmd
 
-
-mkdir .randomFolder
 
 BREAK >> treeCommand.cmd
 ECHO @echo off >> treeCommand.cmd

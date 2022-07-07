@@ -1,0 +1,5 @@
+Hello, 
+How are you m8? 
+Hows life going? 
+This file shows the possibility of cmd and batch. 
+Open more created files, to truly see the power of cmd, and a simple file of code. 
